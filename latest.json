@@ -1,0 +1,18 @@
+{
+  "version": "0.1.7",
+  "versionCode": 1007,
+  "apk": "tooti.apk",
+  "size": 65622908,
+  "sha256": "c4a10cdac552dd5a877bcac5125235b8cbce398a3b543c30822bbd1bf6831316",
+  "notes": "Hands-free video calls: the mic opens by itself after the tutor talks.",
+  "notesFa": "تماس تصویری بدون دست: بعد از حرف معلم، میکروفون خودش باز می‌شه.",
+  "minVersionCode": 1007,
+  "published": "2026-11-01T09:08:53.477Z",
+  "limits": {
+    "freeMessages": 20,
+    "freeVoiceSeconds": 180,
+    "adMessages": 10,
+    "adSeconds": 180,
+    "maxRewardedPerDay": 5
+  }
+}
