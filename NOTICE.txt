@@ -1,0 +1,9 @@
+Offline voice used by the Tooti app
+
+Model: Supertonic 3 (Supertone Inc.), INT8 ONNX export prepared by the sherpa-onnx project
+(k2-fsa/sherpa-onnx, release "tts-models", sherpa-onnx-supertonic-3-tts-int8-2026-05-11).
+Model license: OpenRAIL-M  — https://huggingface.co/Supertone/supertonic-3/blob/main/LICENSE
+Sample code license: MIT (see LICENSE)
+Runtime: sherpa-onnx (Apache-2.0) with ONNX Runtime (MIT).
+
+The files are unchanged copies, hosted here so the app can download them one by one.
