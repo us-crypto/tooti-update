@@ -6,7 +6,7 @@
   "sha256": "9a100f4c4987fd428d4fcdb50d4ae35ac62faa015eef191863134cfa542550f8",
   "notes": "Steadier store purchases with clear messages; yearly plans, welcome gift, supporter, streak freeze, practice parrot, studio voice",
   "notesFa": "خرید مطمئن‌تر از بازار و مایکت، هدیه‌ی ۳ روز پریمیوم، عضویت سالانه، «حامی»، یخ استریک، طوطی تمرینی و صدای استودیویی",
-  "minVersionCode": 1022,
+  "minVersionCode": null,
   "published": "2026-11-16T21:23:53.553Z",
   "limits": {
     "freeMessages": 10,
@@ -53,5 +53,17 @@
     "tooti_platinum_12m": 13900000,
     "tooti_premium_3m": 789000,
     "tooti_supporter": 1990000
+  },
+  "stores": {
+    "bazaar": {
+      "version": "0.1.22",
+      "versionCode": 1022,
+      "minVersionCode": null
+    },
+    "myket": {
+      "version": "0.1.22",
+      "versionCode": 1022,
+      "minVersionCode": null
+    }
   }
 }
